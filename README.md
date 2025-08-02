@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+live link : https://abdallahmohammedadly.github.io/PrayerTimesApp/
